@@ -4,7 +4,7 @@
     {
       "name": "@stackline/types-unist",
       "path": "README.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -15,8 +15,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/types-unist/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/types-unist/-/types-unist-1.0.0.tgz",
       "baselineIntegrity": "sha512-+KLUCAkl+PoSzhd80V59HMguE7WTXQzJNaEtce8sVHmyStO0cl2VnqrwnU0xn8F+2DY21HwCQNS/vU+W2vSt/A==",
-      "expectedSha512": "a17af041902939af051eabb2d61ae0513d064c806107af134bf180d2f92d3d452d274105814f858dfe8050c7acb77a39726fe075238e1d31f412297cc662e074",
-      "tag": "docs-stackline-types-unist-v1.0.1"
+      "expectedSha512": "fff27abde744e69371165ca26c521693c75911c3f5eed94e1f8d51a78f37a2658685626b0a99d032e3e9cca7f090a8603783e3ec37bbb7b09e063d13abbfd407",
+      "tag": "docs-stackline-types-unist-v1.0.2"
     }
   ]
 }
