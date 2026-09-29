@@ -1,8 +1,8 @@
 {
   "name": "@stackline/types-unist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript definitions for unist",
-  "homepage": "https://github.com/alexandroit/stackline-types-unist#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/types-unist/",
   "license": "MIT",
   "contributors": [
     {
@@ -72,5 +72,11 @@
     "typescript": "5.9.3",
     "typescript-min": "npm:typescript@4.8.4",
     "@types/node": "18.11.18"
-  }
+  },
+  "keywords": [
+    "stackline",
+    "npm-package",
+    "types-unist",
+    "typescript"
+  ]
 }
