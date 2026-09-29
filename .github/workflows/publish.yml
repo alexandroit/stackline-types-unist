@@ -1,3 +1,4 @@
+# Publish only the exact reviewed CI artifact from this default branch.
 name: Publish to npm
 
 on:
